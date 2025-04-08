@@ -13,7 +13,7 @@ This repository contains a simulation of Bitcoin mining. Miners solve a cryptogr
 
 Medium Post
 I’ve also written a detailed article about Bitcoin Mining and this simulation on Medium. The article goes into depth about the mining process, the Proof of Work system, and how this Python code demonstrates the concept of mining.
-Cracking the Code: A Beginner's Dive into Bitcoin Mining
+[Cracking the Code: A Beginner's Dive into Bitcoin Mining](https://medium.com/@navatharshini.22/cracking-the-code-a-beginners-dive-into-bitcoin-mining-1d15e6ca555d)
 
 Features
 SHA-256 Hashing: Simulates the hashing process using Python's hashlib.
