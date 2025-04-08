@@ -1,14 +1,7 @@
 Bitcoin Mining Simulation
 A Python-based simulation of Bitcoin mining that demonstrates the Proof of Work mechanism used by miners to add new blocks to the Bitcoin blockchain.
 
-Table of Contents
-Overview
 
-Medium Post
-
-Features
-
-Overview
 This repository contains a simulation of Bitcoin mining. Miners solve a cryptographic puzzle using the SHA-256 hashing algorithm to create a valid hash that meets the network's difficulty requirement. This simulation mimics the mining process and showcases how miners find a valid nonce.
 
 Medium Post
